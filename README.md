@@ -1,5 +1,3 @@
-# HUgin nettsiden
+# This is it
 
-Hallo jeg er hguin
-1 av 4 personar med hugin navn 
-waoh
+[page 2](./page)
